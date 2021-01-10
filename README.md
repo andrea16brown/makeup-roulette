@@ -1,2 +1,2 @@
 # makeup-roulette
-A react web application to choose makeup tutorials for you
+A react web application to choose makeup tutorials for you!
